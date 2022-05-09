@@ -1,34 +1,34 @@
 [
     {
         "id":1,
-        "title":"Cama de relajacion para mascota tipo Dona Bicolor",
-        "price":11.55,
+        "title":"Agility para Perro Adulto Mediano y Grande",
+        "price":23.10,
         "description":"...",
         "category":"perro",
-        "image":"https://cdn.shopify.com/s/files/1/0599/4089/6955/products/camacafebitono.jpg?v=1641319572"
+        "image":"https://www.pethome.cl/imagenes/productos/4066.jpg"
     },
     {
         "id":2,
-        "title":"Antiparasitario para gatos en gotas INVERMIC",
-        "price":11.55,
+        "title":"Master Dog Adulto y Cachorro 18kg.",
+        "price":28.87,
         "description":"...",
         "category":"perro",
-        "image":"https://cdnx.jumpseller.com/dogcatfood/image/6538455/thumb/540/540?1643220083"
+        "image":"https://befoods.cl/wp-content/uploads/2019/01/7801920000193.jpg"
     },
     {
         "id":3,
-        "title":"Rascador De Gatos De Arbol Tres Niveles (cat800)",
-        "price":69.30,
-        "description":"...",
-        "category":"perro",
-        "image":"https://www.olina.cl/img/productos/1636173435_Portada%20CAT800.jpg"
-    },
-    {
-        "id":4,
-        "title":"Guante para pelos de gato",
+        "title":"Botella de agua portatil para perros pequeños y grandes",
         "price":5.77,
         "description":"...",
         "category":"perro",
-        "image":"https://ae01.alicdn.com/kf/HTB1cAd8Kr2pK1RjSZFsq6yNlXXaO/Guante-de-aseo-para-mascotas-cepillo-para-gatos-peine-cepillo-deshedding-para-mascotas-guantes-de-pelo.jpg"
+        "image":"https://ae01.alicdn.com/kf/H096ee8e2731444ff9e1c8eab527bcbd51/Botella-de-agua-port-til-para-perros-peque-os-y-grandes-taz-n-para-caminar-al.jpg_Q90.jpg_.webp"
+    },
+    {
+        "id":4,
+        "title":"Abrigo con capucha para perro pequeño.",
+        "price":11.55,
+        "description":"...",
+        "category":"perro",
+        "image":"https://m.media-amazon.com/images/I/813JB6STx-L._AC_SX466_.jpg"
     }
 ]
