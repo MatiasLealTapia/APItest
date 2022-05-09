@@ -19,5 +19,12 @@
         "price":11.55,
         "description":"...",
         "image":"https://cdn.shopify.com/s/files/1/0599/4089/6955/products/camacafebitono.jpg?v=1641319572"
+    },
+    {
+        "id":3,
+        "title":"Cama de relajacion para mascota tipo Dona Bicolor",
+        "price":11.55,
+        "description":"...",
+        "image":"https://cdn.shopify.com/s/files/1/0599/4089/6955/products/camacafebitono.jpg?v=1641319572"
     }
 ]
