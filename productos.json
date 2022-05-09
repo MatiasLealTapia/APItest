@@ -1,6 +1,23 @@
-{
-    "id":1,
-    "title":"Cama de relajacion para mascota tipo Dona Bicolor",
-    "price":11.54,
-    "description":"..."
-}
+[
+    {
+        "id":1,
+        "title":"Cama de relajacion para mascota tipo Dona Bicolor",
+        "price":11.54,
+        "description":"...",
+        "image":"img/productosgato/Khaki_590x.webp"
+    }
+    {
+        "id":2,
+        "title":"Cama de relajacion para mascota tipo Dona Bicolor",
+        "price":11.54,
+        "description":"...",
+        "image":"img/productosgato/Khaki_590x.webp"
+    }
+    {
+        "id":3,
+        "title":"Cama de relajacion para mascota tipo Dona Bicolor",
+        "price":11.54,
+        "description":"...",
+        "image":"img/productosgato/Khaki_590x.webp"
+    }
+]
