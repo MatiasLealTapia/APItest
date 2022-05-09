@@ -30,5 +30,21 @@
         "description":"...",
         "category":"gato",
         "image":"https://ae01.alicdn.com/kf/HTB1cAd8Kr2pK1RjSZFsq6yNlXXaO/Guante-de-aseo-para-mascotas-cepillo-para-gatos-peine-cepillo-deshedding-para-mascotas-guantes-de-pelo.jpg"
+    },
+    {
+        "id":6,
+        "title":"Alimento para gato adulto Felinnes Premium 85g",
+        "price":5.77,
+        "description":"...",
+        "category":"gato",
+        "image":"https://befoods.cl/wp-content/uploads/2019/01/7804438003274.jpg"
+    },
+    {
+        "id":7,
+        "title":"Pet Cat Scratcher, Tapetes de cama para rascar",
+        "price":5.77,
+        "description":"...",
+        "category":"gato",
+        "image":"https://ae01.alicdn.com/kf/HTB1cAd8Kr2pK1RjSZFsq6yNlXXaO/Guante-de-aseo-para-mascotas-cepillo-para-gatos-peine-cepillo-deshedding-para-mascotas-guantes-de-pelo.jpg"
     }
 ]
